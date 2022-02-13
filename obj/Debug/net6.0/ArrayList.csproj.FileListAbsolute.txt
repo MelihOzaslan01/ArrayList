@@ -1,0 +1,15 @@
+D:\pratikler\Array List\ArrayList\bin\Debug\net6.0\ArrayList.exe
+D:\pratikler\Array List\ArrayList\bin\Debug\net6.0\ArrayList.deps.json
+D:\pratikler\Array List\ArrayList\bin\Debug\net6.0\ArrayList.runtimeconfig.json
+D:\pratikler\Array List\ArrayList\bin\Debug\net6.0\ArrayList.dll
+D:\pratikler\Array List\ArrayList\bin\Debug\net6.0\ref\ArrayList.dll
+D:\pratikler\Array List\ArrayList\bin\Debug\net6.0\ArrayList.pdb
+D:\pratikler\Array List\ArrayList\obj\Debug\net6.0\ArrayList.csproj.AssemblyReference.cache
+D:\pratikler\Array List\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\pratikler\Array List\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+D:\pratikler\Array List\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+D:\pratikler\Array List\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\pratikler\Array List\ArrayList\obj\Debug\net6.0\ArrayList.dll
+D:\pratikler\Array List\ArrayList\obj\Debug\net6.0\ref\ArrayList.dll
+D:\pratikler\Array List\ArrayList\obj\Debug\net6.0\ArrayList.pdb
+D:\pratikler\Array List\ArrayList\obj\Debug\net6.0\ArrayList.genruntimeconfig.cache
